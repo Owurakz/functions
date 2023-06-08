@@ -58,3 +58,12 @@ function addition(num1,num2,num3) {
      return ans
   
 }
+
+console.log(addition(4,5,6));
+
+
+// function Speak(name,age) {
+//     console.log('Hello Everyone, my name is ' + name + ' and I am ' + age + ' years old.' );
+// }
+
+// Speak('Owuraku',22)
